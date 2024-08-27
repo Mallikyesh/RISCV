@@ -57,7 +57,7 @@ This repository contains a step-by-step guide to download the Ripes ME software 
 2. Run the simulation to ensure that the software is functioning correctly.
 3. If you encounter any issues, refer to the [Ripes GitHub Issues page](https://github.com/mortbopet/Ripes/issues) for support.
 
-<br/>
+<br>
 
 <h3 align="center"> Made with ❤️ by Mallikarjun Yeshlur </h3> 
 <br/>
