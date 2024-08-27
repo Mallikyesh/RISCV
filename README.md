@@ -94,6 +94,10 @@ Click on browse > do to the folder where the unzipped file is in > Go to bin > s
 
 Click open.. if the path is set succesfully then this is how it will look like 
 
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/384822b0-b857-49fe-ae8d-0c332c15d988">
+
+
+
 <br/>
 
 <h3 align="center"> Made with ❤️ by Mallikarjun Yeshlur </h3> 
