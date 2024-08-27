@@ -90,7 +90,7 @@ Click on browse > do to the folder where the unzipped file is in > Go to bin > s
 
 Click open.. if the path is set succesfully then this is how it will look like 
 
-<br>
+<br/>
 
 <h3 align="center"> Made with ❤️ by Mallikarjun Yeshlur </h3> 
 <br/>
