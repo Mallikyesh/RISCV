@@ -100,7 +100,7 @@ Click open.. if the path is set succesfully then this is how it will look like
 
 <br/>
 
-<h3 align="center"> Made with ❤️ by Mallikarjun Yeshlur </h3> 
+<h6 align="center"> Made with ❤️ by Mallikarjun Yeshlur </h6> 
 <br/>
 
 <h3> Mallikarjun Yeshlur </h3>
