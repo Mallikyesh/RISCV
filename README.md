@@ -66,7 +66,7 @@ Go to this link
 **(https://github.com/sifive/freedom-tools/releases/tag/v2020.04.0-Toolchain.Only)**
 Here download the Prebuilt Binary Packages based on the OS your are using
 
-### Step 2:
+### Step 2: Disable Gatekeeper Temporarily
 open up the terminal > navigate to the folder containing the downloaded contents > run this on terminal >  sudo spctl --master-disable  (this will disable the malware error)
 
 
@@ -78,7 +78,11 @@ enter the password and fix "(the cannot determine if malware free error)".
 ### Step 3:
 Unzip the folder and open RIPES.
 On the top bar, select preferences>settings>compiler >set compiler path
-<center> **OR** </center>
+
+
+ **OR**
+
+ 
 go to help>settings>compiler > set compiler path
 
 <img width="282" alt="image" src="https://github.com/user-attachments/assets/942f6228-9456-4b4d-b49c-a09491783f66">
