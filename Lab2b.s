@@ -22,6 +22,6 @@ back:
     addi x7,x7,-1
     addi x8,x8,1
     bne x7,x0,back
-    
+    nop
 loop:j loop
     
