@@ -1,5 +1,5 @@
 
-# Ripes - PESU-2023
+# Ripes - PESU-2024
 
 This repository contains a step-by-step guide to download the Ripes ME software required for the course **Computer Organisation and Design**. This course is designed for Electronics and Communication Sophomore students at PES University, Ring Road Campus.
 
