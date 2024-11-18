@@ -103,11 +103,9 @@ Click open.. if the path is set succesfully then this is how it will look like
 <h6 align="center"> Made with ❤️ by Mallikarjun Yeshlur </h6> 
 <br/>
 
-<h3> Mallikarjun Yeshlur </h3>
 
 ### *Email: mallikarjun.yeshlur@gmail.com*  <br/>
 ### *LinkedIn: www.linkedin.com/in/mallikarjun-yeshlur-bb3907250*  <br/>
-### *GitHub: https://github.com/Mallikyesh*  <br/>
 <br/>
 <br/>
 <br/>
